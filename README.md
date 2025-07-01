@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan!</h1>
 <h3 align="center">A aspiring engineer from India pursuing Bachelors in Computer Science!</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning: **Machine Learning, Deep Learning, Natural Language Processing**
 
-- 📫 How to reach me **vermaryan1@gmail.com**
+- 📫 How to reach me: **aryannverse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LHLrVZeW7Ik9UcyQtcKSxDdaSUHv5KoF/view?usp=sharing](https://drive.google.com/file/d/1LHLrVZeW7Ik9UcyQtcKSxDdaSUHv5KoF/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1GfUYLiTp5SZTPRWK9WLmUUght-njCVtC/view?usp=sharing)
 
 - ⚡ Fun fact: **I think I am funny**
 
