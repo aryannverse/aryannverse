@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **aryannverse@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1GfUYLiTp5SZTPRWK9WLmUUght-njCVtC/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1I59jUuUt8CY1hUG42pUotw63Z9mzN0Rc/view?usp=sharing)
 
 - ⚡ Fun fact: **I think I am funny**
 
