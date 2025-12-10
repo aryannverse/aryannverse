@@ -9,7 +9,7 @@
 <h3 align="center"> AI/ML Engineer 🤖 | Data Analyst 📊 | UI/UX Designer 🎨 </h3>
 
 <div align="center" style="display: block;">
-    <img align="center" alt="GIF" src="[https://github.com/user-attachments/assets/da9e926d-1a7f-4344-8f51-4c2c9e8dca65)" width="500" height="320" />
+    <img align="center" alt="GIF" src="https://github.com/user-attachments/assets/da9e926d-1a7f-4344-8f51-4c2c9e8dca65" width="500" height="320" />
 </div>
 
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
