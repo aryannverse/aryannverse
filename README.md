@@ -1,23 +1,47 @@
-<h1 align="center">Hi 👋, I'm Aryan!</h1>
-<h3 align="center">A aspiring engineer from India pursuing Bachelors in Computer Science!</h3>
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
 
-- 🌱 I’m currently learning: **Machine Learning, Deep Learning, Natural Language Processing**
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=yapari&pause=500&color=16dede&size=35&center=true&vCenter=true&random=false&width=500&lines=Hi+Everyone+!+%F0%9F%91%8B+;+I'm+Aryan+Verma!;AI%2FML+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8" alt="Aryan Verma" /></a>
+</h1>
+
+<h3 align="center"> AI/ML Engineer 🤖 | Data Analyst 📊 | UI/UX Designer 🎨 </h3>
+
+<div align="center" style="display: block;">
+    <img align="center" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
+</div>
+
+<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
+
+**`Hi, I am Aryan Verma. I am an outcome-focused Computer Science undergrad (CGPA: 9.12) at Manipal University Jaipur, specializing in Artificial Intelligence and Machine Learning. I possess a strong foundation in data engineering, analysis, and scalable pipeline development.`**
+
+**`I am proficient in Python, SQL, and data visualization, with hands-on experience building end-to-end data workflows and deploying models into real-time environments. My experience includes internships as a Machine Learning & UI/UX Intern at Hibilter IT Systems and a UI/UX Intern at StepNex Technologies.`**
+
+**`I am currently seeking roles in MLOps, Data Analysis, or Product Design to apply my skills to high-impact domains such as financial services and fintech ecosystems.`**
+
+</details>
+
+<hr>
+
+- 🌱 I’m currently specializing in **Artificial Intelligence and Machine Learning**
+
+- 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1I59jUuUt8CY1hUG42pUotw63Z9mzN0Rc/view?usp=sharing)**
 
 - 📫 How to reach me: **aryannverse@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1I59jUuUt8CY1hUG42pUotw63Z9mzN0Rc/view?usp=sharing)
-
-- ⚡ Fun fact: **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's get in touch:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aryannnnverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryannnnverma" height="30" width="40" /></a>
-<a href="https://kaggle.com/aryanverma007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryanverma007" height="30" width="40" /></a>
-<a href="https://instagram.com/aryannverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryannverse" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryannverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryannverse" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/aryannverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryannverse" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/aryannverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryannverse" height="30" width="40" /></a>
+
+</p>
+<hr>
+
+<h3 align="center"> 🚀 Languages - Frameworks - Tools - Libraries - Design 🚀</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,bootstrap,mysql,git,github,vscode,pycharm,linux,tensorflow,pytorch,sklearn,opencv,figma,xd,ps,ai,blender" alt="My Skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
