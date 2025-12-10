@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://github.com/user-attachments/assets/da9e926d-1a7f-4344-8f51-4c2c9e8dca65" alt="Aryan Verma" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=yapari&pause=500&color=16dede&size=35&center=true&vCenter=true&random=false&width=500&lines=Hi+Everyone+!+%F0%9F%91%8B+;+I'm+Aryan+Verma!;AI%2FML+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8" alt="Aryan Verma" /></a>
 </h1>
 
 <h3 align="center"> AI/ML Engineer 🤖 | Data Analyst 📊 | UI/UX Designer 🎨 </h3>
 
 <div align="center" style="display: block;">
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
+    <img align="center" alt="GIF" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://github.com/user-attachments/assets/da9e926d-1a7f-4344-8f51-4c2c9e8dca65)" width="500" height="320" />
 </div>
 
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
