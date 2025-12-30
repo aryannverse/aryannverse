@@ -1,47 +1,148 @@
+<h1>Hi, I'm Aryan Verma! 👋</h1>
+
+
+
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+<pre>
+                                  ___         ___         ___       ___       ___     
+                                 /\__\       /\  \       /\__\     /\__\     /\  \    
+                                /:/  /      /::\  \     /:/  /    /:/  /    /::\  \   
+                               /:/__/      /:/\:\  \   /:/  /    /:/  /    /:/\:\  \  
+                             /::\  \ ___  /::\~\:\  \ /:/  /    /:/  /    /:/  \:\  \ 
+                            /:/\:\  /\__\/:/\:\ \:\__\/:/__/    /:/__/    /:/__/ \:\__\
+                            \/__\:\/:/  /\:\~\:\ \/__/\:\  \    \:\  \    \:\  \ /:/  /
+                                 \::/  /  \:\ \:\__\   \:\  \    \:\  \    \:\  /:/  / 
+                                 /:/  /    \:\ \/__/    \:\  \    \:\  \    \:\/:/  /  
+                                /:/  /      \:\__\       \:\__\    \:\__\    \::/  /   
+                                \/__/        \/__/        \/__/     \/__/     \/__/    
+</pre>
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=yapari&pause=500&color=16dede&size=35&center=true&vCenter=true&random=false&width=500&lines=Hi+Everyone+!+%F0%9F%91%8B+;+I'm+Aryan+Verma!;AI%2FML+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8" alt="Aryan Verma" /></a>
-</h1>
+<br />
 
-<h3 align="center"> AI/ML Engineer 🤖 | Data Analyst 📊 | UI/UX Designer 🎨 </h3>
+### 👨‍💻 About Me
 
-<div align="center" style="display: block;">
-    <img align="center" alt="GIF" src="https://github.com/user-attachments/assets/da9e926d-1a7f-4344-8f51-4c2c9e8dca65" width="500" height="320" />
-</div>
+> I am an outcome-focused **Computer Science undergrad** (CGPA: 9.12) at **Manipal University Jaipur**, specializing in **Artificial Intelligence and Machine Learning**. I possess a strong foundation in data engineering, analysis, and scalable pipeline development.
 
-<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
+<br />
 
-**`Hi, I am Aryan Verma. I am an outcome-focused Computer Science undergrad (CGPA: 9.12) at Manipal University Jaipur, specializing in Artificial Intelligence and Machine Learning. I possess a strong foundation in data engineering, analysis, and scalable pipeline development.`**
+<p align="centre">
+  <a href="https://drive.google.com/file/d/1I59jUuUt8CY1hUG42pUotw63Z9mzN0Rc/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-C0392B?style=for-the-badge&logo=readthedocs&logoColor=white" height="35" alt="Resume" />
+  </a>
+  <a href="https://aryannverse.framer.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-40587C?style=for-the-badge&logo=googleearth&logoColor=white" height="35" alt="Portfolio" />
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://linkedin.com/in/aryannverse" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aryannverse@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/aryannverse/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
+  </a>
+</p>
 
-**`I am proficient in Python, SQL, and data visualization, with hands-on experience building end-to-end data workflows and deploying models into real-time environments. My experience includes internships as a Machine Learning & UI/UX Intern at Hibilter IT Systems and a UI/UX Intern at StepNex Technologies.`**
 
-**`I am currently seeking roles in MLOps, Data Analysis, or Product Design to apply my skills to high-impact domains such as financial services and fintech ecosystems.`**
+### 🎒 Tech Stack & Skills
 
-</details>
-
-<hr>
-
-- 🌱 I’m currently specializing in **Artificial Intelligence and Machine Learning**
-
-- 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1I59jUuUt8CY1hUG42pUotw63Z9mzN0Rc/view?usp=sharing)**
-
-- 📫 How to reach me: **aryannverse@gmail.com**
-
-<h3 align="left">Let's get in touch:</h3>
+**💻 Languages**
+<br>
 <p align="left">
-    <a href="https://linkedin.com/in/aryannverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryannverse" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/aryannverse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryannverse" height="30" width="40" /></a>
-
-</p>
-<hr>
-
-<h3 align="center"> 🚀 Languages - Frameworks - Tools - Libraries - Design 🚀</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,bootstrap,mysql,git,github,vscode,pycharm,linux,tensorflow,pytorch,sklearn,opencv,figma,xd,ps,ai,blender" alt="My Skills" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css" />
+  </a>
 </p>
 
+**🧪 AI Frameworks & Libraries**
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy" />
+  </a>
+</p>
 
+**⚛️ Frontend**
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,bootstrap" />
+  </a>
+</p>
 
+**⚙️ Backend & Database**
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,mongodb,mysql" />
+  </a>
+</p>
+
+**📡 IoT**
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  </a>
+</p>
+
+**🛠️ Tools & IDEs**
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,webstorm,idea,linux" />
+  </a>
+</p>
+
+**🎨 Design**
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,xd,framer" />
+  </a>
+</p>
+
+**🧠 AI Arsenal**
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/--8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48" alt="Gemini" />
+  <img src="https://img.shields.io/badge/--D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude" />
+  <img src="https://img.shields.io/badge/--222222?style=for-the-badge&logo=perplexity&logoColor=white" height="48" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=cursor&logoColor=white" height="48" alt="Cursor" />
+</p>
+
+**📢 Management & Communication**
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,notion" />
+  </a>
+<img src="https://img.shields.io/badge/--0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" alt="Jira" />
+</p>
+
+<br />
+
+---
+
+### 📊 GitHub & Coding Stats
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryannverse&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true" alt="Github Activity Graph" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryannverse&langs_count=8&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://wakatime.com/share/@e7a06295-3919-46b2-84e5-ca92f0ef7945/18fc6de7-2963-42ca-b14a-1a601527d38c.svg" height="170" alt="WakaTime" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryannverse&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
