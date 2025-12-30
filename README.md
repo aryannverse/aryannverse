@@ -107,10 +107,10 @@
 **🧠 AI Arsenal**
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/--8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48" alt="Gemini" />
-  <img src="https://img.shields.io/badge/--D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude" />
-  <img src="https://img.shields.io/badge/--222222?style=for-the-badge&logo=perplexity&logoColor=white" height="48" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=cursor&logoColor=white" height="48" alt="Cursor" />
+  <img src="https://img.shields.io/badge/--8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="64" alt="Gemini" />
+  <img src="https://img.shields.io/badge/--D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="64" alt="Claude" />
+  <img src="https://img.shields.io/badge/--222222?style=for-the-badge&logo=perplexity&logoColor=white" height="64" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=cursor&logoColor=white" height="64" alt="Cursor" />
 </p>
 
 **📢 Management & Communication**
@@ -119,7 +119,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,notion" />
   </a>
-<img src="https://img.shields.io/badge/--0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" alt="Jira" />
+<img src="https://img.shields.io/badge/--0052CC?style=for-the-badge&logo=jira&logoColor=white" height="64" alt="Jira" />
 </p>
 
 <br />
@@ -138,7 +138,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryannverse&langs_count=8&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="Top Languages" />
-  <img src="https://wakatime.com/share/@e7a06295-3919-46b2-84e5-ca92f0ef7945/18fc6de7-2963-42ca-b14a-1a601527d38c.svg" height="170" alt="WakaTime" />
 </div>
 
 <br />
