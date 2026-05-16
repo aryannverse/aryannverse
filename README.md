@@ -22,7 +22,7 @@
 <br />
 
 <p align="centre">
-  <a href="https://drive.google.com/file/d/1I59jUuUt8CY1hUG42pUotw63Z9mzN0Rc/view?usp=sharing" target="_blank">
+  <a href="https://tinyurl.com/resumearyanverma" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-C0392B?style=for-the-badge&logo=readthedocs&logoColor=white" height="35" alt="Resume" />
   </a>
   <a href="https://aryannverse.framer.ai/" target="_blank">
