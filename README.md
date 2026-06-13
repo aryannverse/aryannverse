@@ -146,12 +146,6 @@ intelligent systems.
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryannverse&langs_count=8&layout=compact&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryannverse&style=flat-square&color=blueviolet" alt="Profile Views" />
-</div>
-
 
 ---
 
@@ -220,4 +214,9 @@ Open To:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
----
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryannverse&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
+
