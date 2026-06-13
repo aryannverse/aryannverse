@@ -17,29 +17,40 @@
 
 ### 👨‍💻 About Me
 
-> I am an outcome-focused **Computer Science undergrad** (CGPA: 9.12) at **Manipal University Jaipur**, specializing in **Artificial Intelligence and Machine Learning**. I possess a strong foundation in data engineering, analysis, and scalable pipeline development.
+> Computer Science undergraduate (CGPA: 8.93, 3× Dean’s List) specializing in ML engineering and scalable data systems. Experienced in the full AI lifecycle: from
+data pipelines and model training to cloud deployment and production serving. Seeking Machine Learning Engineer or Data Analyst roles to build high-impact,
+intelligent systems.
 
 <br />
 
-<p align="centre">
-  <a href="https://tinyurl.com/resumearyanverma" target="_blank">
-    <img src="https://img.shields.io/badge/RESUME-C0392B?style=for-the-badge&logo=readthedocs&logoColor=white" height="35" alt="Resume" />
-  </a>
-  <a href="https://aryannverse.framer.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-40587C?style=for-the-badge&logo=googleearth&logoColor=white" height="35" alt="Portfolio" />
-  </a>
-  &nbsp; | &nbsp;
-  <a href="https://linkedin.com/in/aryannverse" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aryannverse@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/aryannverse/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
-  </a>
-</p>
+## Connect
+<div>
 
+<a href="mailto:aryannverse@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-aryannverse@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aryannnnverma/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-aryannnnverma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/aryannverse" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-aryannverse-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://aryannverse.framer.ai" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/18iamuXUSt4qU34SSdQDJEEMucD2bKkqx/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/aryannverse" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-aryannverse-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 ### 🎒 Tech Stack & Skills
 
@@ -140,3 +151,35 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aryannverse&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - System Design & Distributed Systems
+  - Backend Architecture
+  - Nexus & CI/CD pipelining
+
+Building:
+  - AI-powered production applications
+  - Log Anaylsis Platforms
+  - Developer tooling and branding products
+
+Exploring:
+  - Large Language Models & retrieval-augmented generation
+  - Scalable event-driven systems
+
+Open To:
+  - Software Engineering roles at product-first companies
+  - AI / ML Engineer opportunities
+  - Data Analyst roles
+```
+
