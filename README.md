@@ -152,11 +152,6 @@ intelligent systems.
   <img src="https://komarev.com/ghpvc/?username=aryannverse&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
 
 ---
 
@@ -182,4 +177,47 @@ Open To:
   - AI / ML Engineer opportunities
   - Data Analyst roles
 ```
+## Certifications
 
+<div>
+
+**Amazon Web Services**
+
+![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+
+**Oracle**
+
+![Oracle DB](https://img.shields.io/badge/Oracle-Database_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+
+**NPTEL**
+
+![NPTEL Python](https://img.shields.io/badge/NPTEL-Database_Management_Systems-0F9D58?style=flat-square)
+&nbsp;
+![NPTEL Machine Learning](https://img.shields.io/badge/NPTEL-Machine_Learning-4285F4?style=flat-square)
+&nbsp;
+![NPTEL Design & Analysis of Algorithms](https://img.shields.io/badge/NPTEL-Design_&_Analysis_of_Algorithms-7B2FBE?style=flat-square)
+&nbsp;
+![NPTEL Deep Learning](https://img.shields.io/badge/NPTEL-Deep_Learning-7B2FBE?style=flat-square)
+
+
+**Cisco Networking Academy**
+
+![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+&nbsp;
+![Cisco Neworking](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+&nbsp;
+![Cisco Modern AI](https://img.shields.io/badge/Cisco-Modern_AI_Fundamentals-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+&nbsp;
+![Cisco Python](https://img.shields.io/badge/Cisco-Python-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+</div>
+
+---
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+---
