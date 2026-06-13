@@ -187,7 +187,7 @@ Open To:
 
 **NPTEL**
 
-![NPTEL Python](https://img.shields.io/badge/NPTEL-Database_Management_Systems-0F9D58?style=flat-square)
+![NPTEL Python](https://img.shields.io/badge/NPTEL-Introduction_To_Python-0F9D58?style=flat-square)
 &nbsp;
 ![NPTEL Machine Learning](https://img.shields.io/badge/NPTEL-Machine_Learning-4285F4?style=flat-square)
 &nbsp;
