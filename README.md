@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aryan Verma! 👋</h1>
 
-<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<img width="1180" height="610" alt="dark" src="https://github.com/user-attachments/assets/eb4e2550-3e2b-403c-b6e9-2c0ca451ec9c" /><svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <title>Aryan Verma — AI/ML Engineer</title>
   <desc>Animated developer profile header for aryannverse</desc>
 
@@ -391,6 +391,8 @@
     </rect>
   </g>
 </svg>
+
+
 
 ### 👨‍💻 About Me
 
