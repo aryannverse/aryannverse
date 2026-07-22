@@ -1,4 +1,4 @@
-<img width="10067" height="5675" alt="Frame 9" src="https://github.com/user-attachments/assets/b4bc1da7-d01b-48d9-80a9-d81c72346f6e" />
+<img width="10067" height="5675" alt="Frame 11" src="https://github.com/user-attachments/assets/769d2aeb-f17b-4cb6-9320-e21289fc8e1f" />
 
 ### 👨‍💻 About Me
 
