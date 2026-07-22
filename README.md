@@ -27,7 +27,7 @@ intelligent systems.
   <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/18iamuXUSt4qU34SSdQDJEEMucD2bKkqx/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1Pqlper3qLaSwbLiBOBppcoRwkShZKo74/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 &nbsp;
